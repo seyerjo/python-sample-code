@@ -1,7 +1,7 @@
 # Python Sample Code
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Release-v1.0.0-blue.svg" alt="Version">
+  <img src="https://img.shields.io/badge/Release-v1.0.1-blue.svg" alt="Version">
 	<img src="https://img.shields.io/badge/Update-November%202022-yellowgreen.svg" alt="Update">
 	<img src="https://img.shields.io/badge/License-MIT%20License-green.svg" alt="License">
 </div>
@@ -15,11 +15,11 @@ When my time allows me, I will complete it with more and more advanced examples.
 
 ## Code Samples
 
--   Hello World!.
--   Primitive data types in Python.
--   Character strings operations.
--   Console user inputs.
--   User inputs, global variables and character strings operations.
+-   [Hello World!](https://github.com/seyerjo/python-sample-code/blob/main/01-hello-world.py "Hello World!").
+-   [Primitive data types in Python](https://github.com/seyerjo/python-sample-code/blob/main/02-primitives-data-type.py "Primitive data types in Python").
+-   [Character strings operations](http://https://github.com/seyerjo/python-sample-code/blob/main/03-strings-operations.py "Character strings operations").
+-   [Console user inputs](https://github.com/seyerjo/python-sample-code/blob/main/04-inputs.py "Console user inputs").
+-   [User inputs, global variables and character strings operations](https://github.com/seyerjo/python-sample-code/blob/main/05-inputs-variables-and-strings.py "User inputs, global variables and character strings operations").
 
 ## Built with:
 
