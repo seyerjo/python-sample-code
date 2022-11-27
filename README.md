@@ -13,6 +13,14 @@ This repository contains several Python code samples that can be reused to learn
 When my time allows me, I will complete it with more and more advanced examples.
 </p>
 
+## Code Samples
+
+-   Hello World!.
+-   Primitive data types in Python.
+-   Character strings operations.
+-   Console user inputs.
+-   User inputs, global variables and character strings operations.
+
 ## Built with:
 
 [![My Skills](https://skills.thijs.gg/icons?i=python)](https://skills.thijs.gg)
