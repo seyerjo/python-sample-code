@@ -21,6 +21,7 @@ When my time allows me, I will complete it with more and more advanced examples.
 -   [Console user inputs](https://github.com/seyerjo/python-sample-code/blob/main/04-inputs.py "Console user inputs").
 -   [User inputs, global variables and character strings operations](https://github.com/seyerjo/python-sample-code/blob/main/05-inputs-variables-and-strings.py "User inputs, global variables and character strings operations").
 -   [Flow control: 'if-else' statement](https://github.com/seyerjo/python-sample-code/blob/main/06-flow-control.py "User inputs, global variables and character strings operations").
+-   [More user inputs, global variables and character strings operations](https://github.com/seyerjo/python-sample-code/blob/main/07-more-inputs-variables-and-strings.py "More user inputs, global variables and character strings operations").
 
 ## Built with:
 
