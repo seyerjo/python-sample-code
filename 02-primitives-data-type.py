@@ -10,7 +10,7 @@ my_none = None
 """ MAIN CODE """
 
 
-""" The type function returns the data type. """
+""" The 'type' function returns the data type. """
 print(type(my_integer))
 print(type(my_float))
 print(type(my_boolean))
