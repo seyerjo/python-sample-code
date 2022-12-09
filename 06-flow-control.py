@@ -1,14 +1,12 @@
-""" MAIN CODE """
+#  MAIN CODE
 
-
-""" The user is prompted for two integers """
+#  The user is prompted for two integers.
 num_1 = int(input("Enter a first integer: "))
 print("\n")
 num_2 = int(input("Enter a second integer: "))
 print("\n")
 
-
-""" The responses are evaluated with an 'if-else' statement. """
+#  The responses are evaluated with an 'if-else' statement.
 if num_1 > num_2:
     print("The first number is greater than the second.")
     print("\n")
