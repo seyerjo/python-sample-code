@@ -23,11 +23,10 @@ When my time allows me, I will complete it with more and more advanced examples.
 -   [Flow control: 'if-else' statement](https://github.com/seyerjo/python-sample-code/blob/main/06-flow-control.py "User inputs, global variables and character strings operations").
 -   [More user inputs, global variables and character strings operations](https://github.com/seyerjo/python-sample-code/blob/main/07-more-inputs-variables-and-strings.py "More user inputs, global variables and character strings operations").
 -   ['While' iterations](https://github.com/seyerjo/python-sample-code/blob/main/08-while-iterations.py "'While' iterations").
--   [More 'While' iterations](https://github.com/seyerjo/python-sample-code/blob/main/08-while-iterations.py "More 'While' iterations").
+-   [More 'While' iterations](https://github.com/seyerjo/python-sample-code/blob/main/09-more-while-iterations.py "More 'While' iterations").
 -   [Additional 'While' iterations](https://github.com/seyerjo/python-sample-code/blob/main/10-additional-while-iterations.py "Additional 'While' iterations").
 -   ['For' iterations](https://github.com/seyerjo/python-sample-code/blob/main/11-for-iterations.py "'For' iterations").
 -   [More 'For' iterations](https://github.com/seyerjo/python-sample-code/blob/main/12-more-for-iterations.py "More 'For' iterations").
-
 
 ## Built with:
 
