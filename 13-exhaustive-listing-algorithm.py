@@ -39,4 +39,3 @@ if response**2 == objective:
 else:
     #  If not, the number entered by the user does not have an exact square root.
     print(f"{objective} does not have an exact square root")
-
