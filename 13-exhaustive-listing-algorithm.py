@@ -27,10 +27,16 @@ response = 0
 #  The square root of a number that we will request from the user will be calculated.
 objective = int(input("Enter a integer number, please: "))
 
+#  Line break.
+print("\n")
+
 #  If the stored in 'response' squared is less than the number entered by the user...
 while response**2 < objective:
     print(response)  #  'Response' is printed.
     response += 1  #  It iterates by adding one to response.
+
+#  Line break.
+print("\n")
 
 #  If after iterating 'response' raised to the square, it is obtained that it is equal to the number entered by the user...
 if response**2 == objective:
