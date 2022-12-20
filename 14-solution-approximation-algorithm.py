@@ -29,7 +29,9 @@
     answer. If the difference is greater, the loop continues and the response variable
     is incremented with the defined step.
 
-    Finally, the algorithm checks if the square root of the response is within the epsilon margin and, if so, prints the response on the screen. If not, it prints a message indicating that the square root has not been found.
+    Finally, the algorithm checks if the square root of the response is within the epsilon
+    margin and, if so, prints the response on the screen. If not, it prints a message
+    indicating that the square root has not been found.
 
 """
 
