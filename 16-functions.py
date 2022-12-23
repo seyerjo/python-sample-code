@@ -17,8 +17,9 @@ def sum(a, b):
 
 
 #  This line prints the result of the sum function with arguments 3 and 2.
+print("\n")  # Line break.
 print(sum(3, 2))
-
+print("\n")  # Line break.
 
 def full_name(name, last_name, inverse=False):
     """This function takes two arguments, 'name' and 'last_name', and combines them into a
