@@ -21,6 +21,7 @@ print("\n")  # Line break.
 print(sum(3, 2))
 print("\n")  # Line break.
 
+
 def full_name(name, last_name, inverse=False):
     """This function takes two arguments, 'name' and 'last_name', and combines them into a
        string with the first name first followed by the last name. If the optional argument
