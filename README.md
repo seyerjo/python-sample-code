@@ -29,6 +29,7 @@ When my time allows me, I will complete it with more and more advanced examples.
 -   [More 'For' iterations](https://github.com/seyerjo/python-sample-code/blob/main/12-more-for-iterations.py "More 'For' iterations").
 -   [Exhaustive Listing Algorithm](https://github.com/seyerjo/python-sample-code/blob/main/13-exhaustive-listing-algorithm.py "Exhaustive Listing Algorithm").
 -   [Solution Approximation Algorithm](https://github.com/seyerjo/python-sample-code/blob/main/14-solution-approximation-algorithm.py "Solution Approximation Algorithm").
+-   [Binary Search Algorithm](https://github.com/seyerjo/python-sample-code/blob/main/15-binary-search-algorithm.py "Binary Search Algorithm").
 
 ## Built with:
 
