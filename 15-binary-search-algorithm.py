@@ -22,7 +22,7 @@
 
 #  'objective' is assigned the value of the integer input by the user.
 objective = int(input("Enter a integer number: "))
-print("\n") #  Line break.
+print("\n")  #  Line break.
 
 # 'epsilon' is assigned a small value to define the precision of the result.
 epsilon = 0.01
@@ -37,10 +37,8 @@ response = (high_limit + low_limit) / 2
 #  While loop is used to find the square root of the objective until the difference between the
 #  response squared and the objective is smaller than the epsilon.
 while abs(response**2 - objective) >= epsilon:
-    print(
-        f"Low Limit = {low_limit}, High Limit = {high_limit}, Response = {response}"
-    )
-    
+    print(f"Low Limit = {low_limit}, High Limit = {high_limit}, Response = {response}")
+
     # The 'low_limit' and 'high_limit' are adjusted accordingly in the while loop.
     if response**2 < objective:
         low_limit = response
@@ -50,5 +48,5 @@ while abs(response**2 - objective) >= epsilon:
     response = (high_limit + low_limit) / 2
 
 # Finally, the square root of the objective is printed out.
-print("\n") #  Line break.
+print("\n")  #  Line break.
 print(f"The square root of {objective} is {response}")
