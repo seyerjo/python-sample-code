@@ -2,8 +2,9 @@
 
 
 def sum(a, b):
-    """This Python function takes two arguments (a and b) and returns the sum of
-       the two as a result.
+    """
+    This Python function takes two arguments (a and b) and returns the sum of
+    the two as a result.
 
     Args:
         a (integer): First argument.
@@ -23,10 +24,11 @@ print("\n")  # Line break.
 
 
 def full_name(name, last_name, inverse=False):
-    """This function takes two arguments, 'name' and 'last_name', and combines them into a
-       string with the first name first followed by the last name. If the optional argument
-       'inverse' is set to True, then the names will be reversed with the last name first
-       followed by the first name. The function will return the resulting string.
+    """
+    This function takes two arguments, 'name' and 'last_name', and combines them into a
+    string with the first name first followed by the last name. If the optional argument
+    'inverse' is set to True, then the names will be reversed with the last name first
+    followed by the first name. The function will return the resulting string.
 
     Args:
         name (string): name
