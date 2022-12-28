@@ -10,7 +10,7 @@
 This repository contains several Python code samples that can be reused to learn and understand programming with this language.
 </p>
 <p align="justify">
-When my time allows me, I will complete it with more and more advanced examples.
+When my time allows me, I will complete it with more advanced examples.
 </p>
 
 ## Code Samples
