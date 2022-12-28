@@ -31,7 +31,8 @@ When my time allows me, I will complete it with more and more advanced examples.
 -   [Solution Approximation Algorithm](https://github.com/seyerjo/python-sample-code/blob/main/14-solution-approximation-algorithm.py "Solution Approximation Algorithm").
 -   [Binary Search Algorithm](https://github.com/seyerjo/python-sample-code/blob/main/15-binary-search-algorithm.py "Binary Search Algorithm").
 -   [Functions](https://github.com/seyerjo/python-sample-code/blob/main/16-functions.py "Functions").
-
+-   [Recursive Functions](https://github.com/seyerjo/python-sample-code/blob/main/17-recursive-functions.py "Recursive Functions").
+-   [Recursion Limit](https://github.com/seyerjo/python-sample-code/blob/main/18-recursion-limit.py "Recursion Limit").
 
 ## Built with:
 
