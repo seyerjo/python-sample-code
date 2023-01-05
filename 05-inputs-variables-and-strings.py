@@ -1,10 +1,7 @@
-#  GLOBAL VARIABLES
-
-#  A global variable is declared.
-greeting_string = ""
-
-
 #  MAIN CODE
+
+#  A variable is declared.
+greeting_string = ""
 
 #  The username is requested in the console.
 nombre = input("What's your name?: ")
