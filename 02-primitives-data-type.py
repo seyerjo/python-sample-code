@@ -1,12 +1,9 @@
-#  GLOBAL VARIABLES
+#  MAIN CODE
 
 my_integer = 1
 my_float = 1.0
 my_boolean = False
 my_none = None
-
-
-#  MAIN CODE
 
 #  The 'type' function returns the data type.
 print(type(my_integer))
