@@ -1,4 +1,4 @@
-#  GLOBAL VARIABLES
+#  MAIN CODE
 
 #  Variables are declared and initialized.
 name_first_user = ""
@@ -7,8 +7,6 @@ name_second_user = ""
 age_first_user = 0
 age_second_user = 0
 
-
-#  MAIN CODE
 
 #  The name and age of the first user are asked.
 print(">>> FIRST USER <<<")
