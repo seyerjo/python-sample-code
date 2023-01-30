@@ -1,12 +1,9 @@
-#  GLOBAL VARIABLES
-
+#  VARIABLES
 
 #  Stores the number entered by the user.
 value = 0
 
-
 # FUNCTIONS
-
 
 def factorial(n):
     """
@@ -25,7 +22,6 @@ def factorial(n):
         return 1
     else:
         return n * factorial(n - 1)
-
 
 def request_number():
     """
@@ -55,9 +51,7 @@ def request_number():
         print("\n")
         request_number()
 
-
 #  MAIN CODE
-
 
 #  Presentation of the routine in the console between a pair of line breaks.
 print("\n")

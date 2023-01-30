@@ -1,5 +1,6 @@
 #  MAIN CODE
 
+#  Variables
 my_integer = 1
 my_float = 1.0
 my_boolean = False

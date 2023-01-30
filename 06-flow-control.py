@@ -1,6 +1,6 @@
 #  MAIN CODE
 
-#  The user is prompted for two integers.
+#  The user is prompted for two integers and their values are stored in two variables.
 num_1 = int(input("Enter a first integer: "))
 print("\n")
 num_2 = int(input("Enter a second integer: "))

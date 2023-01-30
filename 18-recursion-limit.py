@@ -1,6 +1,5 @@
 #  MAIN CODE
 
-
 import sys
 
 """
@@ -11,7 +10,6 @@ limit is being reached, it is usually a good idea to think about whether
 the recursive algorithm is really the one that best solves the problem.
 
 """
-
 print(sys.getrecursionlimit())
 print("\n")
 

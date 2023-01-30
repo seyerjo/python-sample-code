@@ -1,19 +1,17 @@
-#  GLOBAL VARIABLES
+#  MAIN CODE
 
+#  Variables
 my_first_string = "123"
 my_second_string = "456"
 my_third_string = "Hip"
 my_fourth_string = "hurra"
 my_other_string = "World"
 
-
-#  MAIN CODE
-
-#  String is displayed in console.
+#  The content in the variable 'my_first_string' is displayed in console.
 print(my_first_string)
 print("\n")
 
-#  The string is displayed in console in triplicate.
+#  The content in the variable 'my_first_string' is displayed in console in triplicate.
 print(my_first_string * 3)
 print("\n")
 
@@ -21,15 +19,15 @@ print("\n")
 print(my_first_string + my_second_string)
 print("\n")
 
-#  String duplicate and concatenation.
+#  Strings duplicate and concatenation.
 print(((my_third_string + " ") * 2) + my_fourth_string)
 print("\n")
 
-#  String duplicate and concatenation using 'Format' function.
+#  Strings duplicate and concatenation using 'Format' function.
 print(f'{((my_third_string + " ") * 2)}hurra')
 print("\n")
 
-#  String length.
+#  Strings length.
 print(len(my_other_string))
 print("\n")
 

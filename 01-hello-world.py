@@ -1,4 +1,4 @@
 #  MAIN CODE
 
-#  Displays 'Hello World' on the console.
+#  'Hello World' is displayed in console.
 print("Hello World!")

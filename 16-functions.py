@@ -1,6 +1,5 @@
 #  MAIN CODE
 
-
 def sum(a, b):
     """
     This Python function takes two arguments (a and b) and returns the sum of
@@ -16,12 +15,10 @@ def sum(a, b):
     total = a + b
     return total
 
-
 #  This line prints the result of the sum function with arguments 3 and 2.
 print("\n")  # Line break.
 print(sum(3, 2))
 print("\n")  # Line break.
-
 
 def full_name(name, last_name, inverse=False):
     """
@@ -42,7 +39,6 @@ def full_name(name, last_name, inverse=False):
         return f"{last_name} {name}"
     else:
         return f"{name} {last_name}"
-
 
 # Print the full name without the inverse parameter.
 print(full_name("Michael", "Smith"))
