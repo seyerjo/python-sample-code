@@ -1,4 +1,4 @@
-# Python Sample Code
+# Python Sample Code Repository
 
 <div align="left">
   <img src="https://img.shields.io/badge/Release-v1.3.1-blue.svg" alt="Version">
