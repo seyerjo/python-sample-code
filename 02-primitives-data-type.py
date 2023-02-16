@@ -1,4 +1,4 @@
-#  MAIN CODE
+
 
 #  Variables
 my_integer = 1
