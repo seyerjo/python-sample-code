@@ -1,4 +1,4 @@
-#  MAIN CODE
+
 
 #  This code uses two nested loops to print a series of numbers.
 

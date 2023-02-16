@@ -1,4 +1,4 @@
-#  MAIN CODE
+
 
 #  A variable is declared.
 greeting_string = ""

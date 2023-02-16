@@ -1,4 +1,4 @@
-#  MAIN CODE
+
 
 #  Variables are declared and initialized.
 name_first_user = ""
