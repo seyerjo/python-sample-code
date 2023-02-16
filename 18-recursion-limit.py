@@ -1,4 +1,4 @@
-#  MAIN CODE
+
 
 import sys
 
