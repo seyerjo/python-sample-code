@@ -18,7 +18,7 @@
 
 """
 
-
+#  MAIN CODE
 
 #  'objective' is assigned the value of the integer input by the user.
 objective = int(input("Enter a integer number: "))
