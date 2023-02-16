@@ -1,4 +1,4 @@
-#  MAIN CODE
+
 
 #  The user is asked in the console and the answer is stored in a variable.
 #  The console response always returns a string.
