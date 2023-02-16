@@ -1,16 +1,13 @@
 # Python Sample Code
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Release-v1.3.0-blue.svg" alt="Version">
-	<img src="https://img.shields.io/badge/Update-January%202023-yellowgreen.svg" alt="Update">
+  <img src="https://img.shields.io/badge/Release-v1.3.1-blue.svg" alt="Version">
+	<img src="https://img.shields.io/badge/Update-February%202023-yellowgreen.svg" alt="Update">
 	<img src="https://img.shields.io/badge/License-MIT%20License-green.svg" alt="License">
 </div>
 <br />
 <p align="justify">
-This repository contains several Python code samples that can be reused to learn and understand programming with this language.
-</p>
-<p align="justify">
-When my time allows me, I will complete it with more advanced examples.
+This repository contains several Python code samples that can be reused to learn and understand programming with this language. All the examples are fully commented for a better understanding of the code.
 </p>
 
 ## Code Samples
