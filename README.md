@@ -7,7 +7,9 @@
 </div>
 <br />
 <p align="justify">
-This repository contains several Python code samples that can be reused to learn and understand programming with this language. All the examples are fully commented for a better understanding of the code.
+This repository contains several Python code samples that can be reused to learn and understand Python programming.
+
+The repository has been created to offer support material to those who start programming with this language. In that sense, all the examples are fully commented for a better understanding of the code.
 </p>
 
 ## Code Samples
