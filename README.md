@@ -1,13 +1,13 @@
 # Python Sample Code Repository
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Release-v1.3.1-blue.svg" alt="Version">
-	<img src="https://img.shields.io/badge/Update-February%202023-yellowgreen.svg" alt="Update">
+  <img src="https://img.shields.io/badge/Release-v1.3.2-blue.svg" alt="Version">
+	<img src="https://img.shields.io/badge/Update-MAy%202023-yellowgreen.svg" alt="Update">
 	<img src="https://img.shields.io/badge/License-MIT%20License-green.svg" alt="License">
 </div>
 <br />
 <p align="justify">
-This repository contains several Python code samples that can be reused to learn and understand Python programming.
+This repository contains several Python code examples that can be reused to learn and understand Python programming.
 
 The repository has been created to offer support material to those who start programming with this language. In that sense, all the examples are fully commented for a better understanding of the code.
 </p>
@@ -32,6 +32,7 @@ The repository has been created to offer support material to those who start pro
 -   [Functions](https://github.com/seyerjo/python-sample-code/blob/main/16-functions.py "Functions").
 -   [Recursive Functions](https://github.com/seyerjo/python-sample-code/blob/main/17-recursive-functions.py "Recursive Functions").
 -   [Recursion Limit](https://github.com/seyerjo/python-sample-code/blob/main/18-recursion-limit.py "Recursion Limit").
+-   [Escape character and Strings](https://github.com/seyerjo/python-sample-code/blob/main/19-escape-character-and-strings.py "Escape character and Strings").
 
 ## Built with:
 
