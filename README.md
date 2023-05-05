@@ -32,7 +32,7 @@ The repository has been created to offer support material to those who start pro
 -   [Functions](https://github.com/seyerjo/python-sample-code/blob/main/16-functions.py "Functions").
 -   [Recursive Functions](https://github.com/seyerjo/python-sample-code/blob/main/17-recursive-functions.py "Recursive Functions").
 -   [Recursion Limit](https://github.com/seyerjo/python-sample-code/blob/main/18-recursion-limit.py "Recursion Limit").
--   [Escape character and Strings](https://github.com/seyerjo/python-sample-code/blob/main/19-escape-character-and-strings.py "Escape character and Strings").
+-   [Escape character and strings](https://github.com/seyerjo/python-sample-code/blob/main/19-escape-character-and-strings.py "Escape character and strings").
 
 ## Built with:
 
