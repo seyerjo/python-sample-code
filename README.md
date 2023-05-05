@@ -2,7 +2,7 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Release-v1.3.2-blue.svg" alt="Version">
-	<img src="https://img.shields.io/badge/Update-MAy%202023-yellowgreen.svg" alt="Update">
+	<img src="https://img.shields.io/badge/Update-May%202023-yellowgreen.svg" alt="Update">
 	<img src="https://img.shields.io/badge/License-MIT%20License-green.svg" alt="License">
 </div>
 <br />
