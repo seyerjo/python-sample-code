@@ -1,18 +1,26 @@
-# Python Sample Code Repository
+# Python Examples Repository
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Release-v1.3.2-blue.svg" alt="Version">
-	<img src="https://img.shields.io/badge/Update-May%202023-yellowgreen.svg" alt="Update">
+  <img src="https://img.shields.io/badge/Release-v1.4.0-blue.svg" alt="Version">
+	<img src="https://img.shields.io/badge/Update-June%202023-yellowgreen.svg" alt="Update">
 	<img src="https://img.shields.io/badge/License-MIT%20License-green.svg" alt="License">
 </div>
 <br />
 <p align="justify">
-This repository contains several Python code examples that can be reused to learn and understand Python programming.
-
-The repository has been created to offer support material to those who start programming with this language. In that sense, all the examples are fully commented for a better understanding of the code.
+This repository contains a collection of Python examples that can be used by anyone to learn how to program with this language. The examples are organized by topics and each one comes with detailed comments to explain the code.
 </p>
 
-## Code Samples
+## How to use this repository
+
+<p align="justify">
+To use this repository, simply download or clone the repository to your computer. Then, open the example files in your favorite code editor and study the code and comments. You can experiment with them, modify them, and see how the program's behavior changes.
+</p>
+
+## About the code Examples
+
+<p align="justify">
+The examples in this repository cover a wide range of topics, from the basics of Python to more advanced topics:
+</p>
 
 -   [Hello World!](https://github.com/seyerjo/python-sample-code/blob/main/01-hello-world.py "Hello World!").
 -   [Primitive data types in Python](https://github.com/seyerjo/python-sample-code/blob/main/02-primitives-data-type.py "Primitive data types in Python").
@@ -34,6 +42,11 @@ The repository has been created to offer support material to those who start pro
 -   [Recursion Limit](https://github.com/seyerjo/python-sample-code/blob/main/18-recursion-limit.py "Recursion Limit").
 -   [Escape character and strings](https://github.com/seyerjo/python-sample-code/blob/main/19-escape-character-and-strings.py "Escape character and strings").
 
-## Built with:
+## License
 
-[![My Skills](https://skills.thijs.gg/icons?i=python)](https://skills.thijs.gg)
+<p align="justify">
+All examples in this repository are under the <a href="./LICENSE">MIT license</a>, which means you can use them for any purpose, even in commercial projects.
+
+I hope you find this repository useful in your Python learning journey. If you have any questions or suggestions, feel free to create an issue in the repository.
+</p>
+
