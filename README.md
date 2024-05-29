@@ -8,7 +8,7 @@
 </div>
 <br />
 <p align="justify">
-This repository contains a collection of Python examples that can be used by anyone to learn how to program with this language. The examples are organized by topics and each one comes with detailed comments to explain the code.
+This repository contains al collection of Python examples that can be used by anyone to learn how to program with this language. The examples are organized by topics and each one comes with detailed comments to explain the code.
 </p>
 
 ## How to use this repository
