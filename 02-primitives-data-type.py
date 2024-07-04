@@ -1,6 +1,6 @@
 #  MAIN CODE
 
-#  Variables
+#  Variables with some primitive data types
 my_integer = 1
 my_float = 1.0
 my_boolean = False
