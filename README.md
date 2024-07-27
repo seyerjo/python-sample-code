@@ -1,10 +1,10 @@
 # Python Examples Repository
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Release-v1.4.3-4848EC.svg" alt="Version">
+  <img src="https://img.shields.io/badge/Release-v1.5.0-4848EC.svg" alt="Version">
 	<img src="https://img.shields.io/badge/Update-Jul%202024-F33F3F.svg" alt="Update">
 	<img src="https://img.shields.io/badge/License-MIT%20License-800000.svg" alt="License">
-	<img src="https://img.shields.io/badge/Level-Trainee%20/%20Junior-17B117.svg" alt="Level">
+	<img src="https://img.shields.io/badge/Level-Basic%20/%20Intermediate-17B117.svg" alt="Level">
 </div>
 <br />
 <p align="justify">
