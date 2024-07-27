@@ -1,4 +1,4 @@
-#  MAIN CODE
+#  SAMPLE MAIN CODE
 
 #  Variables
 my_first_string = "123"
