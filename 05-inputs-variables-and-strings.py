@@ -15,7 +15,7 @@ print(variable_x, variable_y, variable_z)
 print(type(variable_x), type(variable_y), type(variable_z))
 print("\n")
 
-#  MAIN CODE
+#  SAMPLE MAIN CODE
 
 #  A variable is declared and assigned at the same time.
 greeting_string = ""
