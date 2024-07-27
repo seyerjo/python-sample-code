@@ -3,11 +3,11 @@
 #   This is a one-line comment
 
 """
-    This is a multi-line comment with double inverted commas
+    This is a multi-line comment with double quotes
 """
 
 '''
-    This is a multi-line comment with single inverted commas
+    This is a multi-line comment with single quotes
 '''
 
 #   SAMPLE MAIN CODE
