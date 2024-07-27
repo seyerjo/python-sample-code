@@ -14,8 +14,7 @@
 
 """
     Hello World! is displayed in console. We can use single
-    or double inverted commas to wrap the text string to be
-    displayed.
+    or double quotes to wrap the text string to be displayed.
 """
 
 print("Hello World!")
