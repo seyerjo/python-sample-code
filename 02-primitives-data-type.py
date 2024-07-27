@@ -1,4 +1,4 @@
-#  MAIN CODE
+#  SAMPLE MAIN CODE
 
 #  Variables with primitive data types
 my_integer = 1
