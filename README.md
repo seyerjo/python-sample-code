@@ -32,6 +32,7 @@ The examples in this repository cover a wide range of concepts related to Python
 
 ## Examples List
 
+-   📗 [Types of comments](https://github.com/seyerjo/python-sample-code/blob/main/00-comments-types.py "Types of comments")
 -   📗 [Hello World!](https://github.com/seyerjo/python-sample-code/blob/main/01-hello-world.py "Hello World!")
 -   📗 [Primitive data types in Python](https://github.com/seyerjo/python-sample-code/blob/main/02-primitives-data-type.py "Primitive data types in Python")
 -   📗 [Character strings operations](https://github.com/seyerjo/python-sample-code/blob/main/03-strings-operations.py "Character strings operations")
