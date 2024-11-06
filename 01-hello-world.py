@@ -1,15 +1,3 @@
-#   FUNDAMENTALS
-
-#   This is a one-line comment
-
-"""
-    This is a multi-line comment with double quotes
-"""
-
-'''
-    This is a multi-line comment with single quotes
-'''
-
 #   SAMPLE MAIN CODE
 
 """
