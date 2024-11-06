@@ -1,4 +1,4 @@
-#   SAMPLE MAIN CODE
+#  SAMPLE MAIN CODE
 
 """
     Hello World! is displayed in console. We can use single
