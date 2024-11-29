@@ -46,10 +46,10 @@ The examples in this repository cover a wide range of concepts related to Python
 -   📙 [Additional 'While' iterations](https://github.com/seyerjo/python-sample-code/blob/main/10-additional-while-iterations.py "Additional 'While' iterations")
 -   📙 ['For' iterations](https://github.com/seyerjo/python-sample-code/blob/main/11-for-iterations.py "'For' iterations")
 -   📙 [More 'For' iterations](https://github.com/seyerjo/python-sample-code/blob/main/12-more-for-iterations.py "More 'For' iterations")
--   📙 [Functions](https://github.com/seyerjo/python-sample-code/blob/main/16-functions.py "Functions").
+-   📙 [Functions](https://github.com/seyerjo/python-sample-code/blob/main/16-functions.py "Functions")
 -   📕 [Recursive Functions](https://github.com/seyerjo/python-sample-code/blob/main/17-recursive-functions.py "Recursive Functions")
 -   📕 [Recursion Limit](https://github.com/seyerjo/python-sample-code/blob/main/18-recursion-limit.py "Recursion Limit")
--   📕 [Exhaustive Listing Algorithm](https://github.com/seyerjo/python-sample-code/blob/main/13-exhaustive-listing-algorithm.py "Exhaustive Listing Algorithm").
+-   📕 [Exhaustive Listing Algorithm](https://github.com/seyerjo/python-sample-code/blob/main/13-exhaustive-listing-algorithm.py "Exhaustive Listing Algorithm")
 -   📕 [Solution Approximation Algorithm](https://github.com/seyerjo/python-sample-code/blob/main/14-solution-approximation-algorithm.py "Solution Approximation Algorithm")
 -   📕 [Binary Search Algorithm](https://github.com/seyerjo/python-sample-code/blob/main/15-binary-search-algorithm.py "Binary Search Algorithm")
 
